@@ -1,5 +1,15 @@
 ## Flutter SplashScreen - Ring Animation
 
+## Preview
+
+### SplashScreen - Heartbeat Ring Animation
+
+<img src="assets/screenshots/heartbeat_ring_animation.gif" />
+
+### SplashScreen - Ring Animation
+
+<img src="assets/screenshots/ring_animation.gif" />
+
 ```dart
 Center(
     child: WidgetRingAnimator(
@@ -48,16 +58,6 @@ Clone the repository and run the following commands:
 flutter pub get
 flutter run
 ```
-
-## Preview
-
-### SplashScreen - Heartbeat Ring Animation
-
-<img src="assets/screenshots/heartbeat_ring_animation.gif" />
-
-### SplashScreen - Ring Animation
-
-<img src="assets/screenshots/ring_animation.gif" />
 
 ## Contributing
 
