@@ -4,7 +4,7 @@
 
 Heartbeat Ring Animation | Ring Animation
 :---------------------------:|:---------------------------:
-![](https://github.com/sraodev/Flutter-SplashScreen-RingAnimation/blob/master/assets/screenshots/ring_animation.gif")|![]https://github.com/sraodev/Flutter-SplashScreen-RingAnimation/blob/master/assets/screenshots/ring_animation.gif)
+<img src="assets/screenshots/heartbeat_ring_animation.gif" /> | ![]https://github.com/sraodev/Flutter-SplashScreen-RingAnimation/blob/master/assets/screenshots/ring_animation.gif)
 
 ### SplashScreen - Heartbeat Ring Animation
 
