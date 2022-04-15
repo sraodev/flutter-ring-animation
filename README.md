@@ -1,4 +1,15 @@
-## Flutter SplashScreen - Ring Animation
+# Flutter Ring Animation
+
+Here you can find some Flutter examples.
+
+## Development Setup
+Clone the repository and run the following commands:
+```bash
+flutter pub get
+flutter run
+```
+## Screenshot 
+
 
 ## Preview
 
@@ -47,15 +58,6 @@ Center(
 Assets
 
 - [icon8](https://icons8.com)
-
-## Development Setup
-
-Clone the repository and run the following commands:
-
-```
-flutter pub get
-flutter run
-```
 
 ## Contributing
 
