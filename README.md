@@ -10,6 +10,12 @@ flutter run
 ```
 ## Screenshot 
 
+### Heartbeat Ring Animation
+<img src="assets/screenshots/screenshot_heartbeat_ring_animation.png" />
+
+### Ring Animation
+<img src="assets/screenshots/screenshot_ring_animation.png" />
+
 
 ## Preview
 
